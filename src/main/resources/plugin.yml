@@ -1,0 +1,6 @@
+name: VaultPractice
+version: @version@
+main: vault.vaultpractice.VaultPractice
+api-version: 1.16
+commands:
+  mbal:
